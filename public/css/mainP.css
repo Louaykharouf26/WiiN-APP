@@ -1,0 +1,828 @@
+#logo{
+    position: absolute;
+width: 129px;
+height: 42px;
+left: 5%;
+top: 10%;
+}
+#lang{
+    position: absolute;
+    left: 5%;
+top: 2%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #34A853;
+}
+.hrbx{
+    position: absolute;
+width: 1140px;
+height: 0px;
+left: 5%;
+top: 5%;
+
+border: 0.5px solid #6F6F7C;
+}
+
+#contact{
+    position: absolute;
+    width: 70px;
+    height: 16px;
+    right: 30%;
+    top: 2%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #6F6F7C;
+}
+#help{
+    position: absolute;
+    width: 70px;
+    height: 16px;
+    right: 22%;
+    top: 2%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #6F6F7C;
+}
+#faq{
+    position: absolute;
+    width: 70px;
+    height: 16px;
+    right: 16%;
+    top: 2%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #6F6F7C;
+}
+#EN{
+    position: relative;
+width: 19px;
+height: 17px;
+left: 5%;
+top: 2%;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #34A853;
+
+}
+#AR{
+    position: relative;
+width: 19px;
+height: 17px;
+left: 10%;
+top: 2%;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.search{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 444px;
+    height: 50px;
+    left: 32%;
+    top: 10%;
+    
+    border: 1px solid #6F6F7C;
+    border-radius: 0px 5px 5px 0px;
+}
+#dropdownMenuLink{
+width: 99px;
+height: 50px;
+
+
+
+border-radius: 5px 0px 0px 5px;
+}
+#filter{
+    position: absolute;
+left: 25%;
+top:10%;
+}
+.submitbtn{
+    position: absolute;
+width: 41px;
+height: 40px;
+left: 61%;
+top: 10.75%;
+border-radius: 4px;
+}
+.prof{
+    position: absolute;
+width: 70px;
+height: 20px;
+left: 70%;
+top: 12%;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+text-decoration: none;
+color: #6F6F7C;
+
+
+}
+.saved{
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 78%;
+    top: 12%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-decoration: none;
+    color: #6F6F7C;
+}
+.nav{
+    
+width: 1365px;
+height: 165px;
+
+
+background: #FFFFFF;
+box-shadow: 0px 4px 10px rgba(214, 214, 214, 0.25);
+}
+.postbx{
+    position: absolute;
+width: 1127px;
+height: 95px;
+left:10%;
+top: 35%;
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+#logoE{
+    position: absolute;
+width: 51px;
+height: 51px;
+left: 5%;
+top:20%;
+
+border-radius: 155px;
+}
+#exampleFormControlTextarea1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 809px;
+height: 51px;
+left: 10%;
+top: 20%;
+resize: none;
+background: #FFFFFF;
+border: 1px solid #0163E0;
+border-radius: 36px;
+}
+#postbtn{
+    position: absolute;
+width: 101px;
+height: 51px;
+left: 85%;
+top: 20%;
+
+background: #0163E0;
+border-radius: 36px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+textarea::placeholder{
+    position: absolute;
+width: 125px;
+height: 23px;
+left: 5%;
+top:20%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.userbx{
+    position: absolute;
+    width: 1127px;
+    height: 390px;
+    left: 10%;
+    top: 55%;
+
+}
+.user-box {
+    width: 1127px;
+    height: 390px;
+    padding: 10px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+    margin-bottom: 20px;
+}
+.user1{
+width: 1100x;
+height: 134px;
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+#logoE1{
+    position: relative;
+width: 74px;
+height: 74px;
+left: 5%;
+top: 20%;
+border-radius: 155px;
+}
+.name{
+    position: relative;
+width: 200px;
+height: 30px;
+left: 15%;
+top: -30%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.posted{
+    position: relative;
+width: 130px;
+height: 20px;
+left: 15%;
+top: -35%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.text{
+    position: absolute;
+width: 1042px;
+height: 69px;
+left: 2%;
+top: 45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+}
+.seemore{
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #34A853;
+}
+#Sprev{
+    box-sizing: border-box;
+
+position: absolute;
+width: 568px;
+height: 80px;
+left: 0%;
+top: 80%;
+
+background: #FFFFFF;
+border-top: 1px solid #0163E0;
+border-radius: 0px 0px 0px 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #0163E0;
+
+}
+#CP{
+    position: absolute;
+width: 563px;
+height:80px;
+left: 50%;
+top: 80%;
+
+background: #0163E0;
+border-radius: 0px 0px 15px 0px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#CP1{
+    position: absolute;
+width: 1127px;
+height:80px;
+left: 0%;
+top: 80%;
+
+background: #0163E0;
+border-radius: 0px 0px 15px 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.userbx1{
+    position: absolute;
+width: 1127px;
+height: 390px;
+left: 10%;
+top:130%;
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+.userbx2{
+    position: absolute;
+width: 1127px;
+height: 390px;
+left: 10%;
+top:205%;
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+.userbx3{
+    position: absolute;
+width: 1127px;
+height: 390px;
+left: 10%;
+top:280%;
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+}
+#close{
+    position: absolute;
+right: 3%;
+top:2%;
+}
+#cplabel{
+    position: relative;
+    width: 378px;
+height: 53px;
+    left: 15%;
+    top: 2%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #35363A;
+}
+#bxmodal{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+left: 35%;
+top: 10%;
+
+background: #FFFFFF;
+
+border-radius: 15px;
+}
+.sendbtn{
+    position: absolute;
+width: 450px;
+height: 77px;
+left: 6%;
+top:97%;
+
+background: #0163E0;
+border-radius: 4px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#contactP{
+    box-sizing: border-box;
+
+position: relative;
+width: 450px;
+height: 200px;
+left: 3%;
+top: 5%;
+resize: none;
+background: #FFFFFF;
+border: 2px solid #0163E0;
+border-radius: 4px;
+}
+.modal-content{
+    border: none;
+}
+
+/* Profile Css */ 
+#profilepic{
+    position: absolute;
+width: 310px;
+height: 310px;
+left: 5%;
+top: 25%;
+
+border-radius: 7px;
+}
+.profilename{
+    position: absolute;
+width: 334px;
+height: 60px;
+left: 32%;
+top: 27%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.profilerole{
+    position: absolute;
+width: 88px;
+height: 38px;
+left: 32%;
+top: 35.5%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #0089ED;
+}
+.cityprofile{
+    position: absolute;
+width: 145px;
+height: 30px;
+left: 32%;
+top: 41.5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.messagebtn{
+    position: absolute;
+width: 279px;
+height: 61px;
+left: 32%;
+top: 48.5%;
+background: #0089ED;
+border-radius: 6px;
+}
+.editprofile{
+    position: absolute;
+width: 143px;
+height: 27px;
+left: 32%;
+top: 75%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.underline{
+    position: absolute;
+width: 768px;
+height: 0px;
+left: 32%;
+top: 78%;
+
+border: 1px solid #000000;
+}
+.detailsprofile{
+    position: absolute;
+width: 300px;
+height: 27px;
+left: 32%;
+top: 82%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #3F3F3F;
+
+}
+.skills{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 60%;
+top: 82%;
+}
+.skill1{
+    background: #0089ED;
+border-radius: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+/*Work Css*/ 
+#profilepic1{
+    position: absolute;
+    width: 184px;
+    height: 184px;
+    left: 5%;
+    top: 30%;
+border-radius: 155px;
+}
+.profilename1{
+    position: absolute;
+    width: 292px;
+    height: 53px;
+    left: 4%;
+    top: 63%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.profilerole1{
+    position: absolute;
+width: 88px;
+height: 38px;
+left: 8%;
+top: 70%;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #0089ED;
+}
+.cityprofile1{
+    position: absolute;
+width: 145px;
+height: 30px;
+left: 7%;
+top: 76%;
+
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.title1{
+    position: absolute;
+width: 334px;
+height: 60px;
+left: 32%;
+top: 30%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.workdesc{
+    position: absolute;
+width: 220px;
+height: 336px;
+left: 32%;
+top: 42%;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.FW1{
+    position: absolute;
+width: 709px;
+height: 103px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+}
+.reviews{
+    position: absolute;
+    width: 709px;
+    height: 103px;
+    top: 35%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+   
+}
+.stars{
+    position: absolute;
+    top: 50%;
+}
+.SF{
+    position: absolute;
+    width: 709px;
+    height: 103px;
+    top: 65%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 52px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.SF1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 566px;
+height: 67px;
+top: 85%;
+
+background: #FFFFFF;
+border: 1px solid #6F6F7C;
+border-radius: 4px;
+}
+.send1{
+    position: absolute;
+width: 123px;
+height: 67px;
+left: 1167px;
+top: 85%;
+left: 280%;
+
+background: #0089ED;
+border-radius: 4px;
+}

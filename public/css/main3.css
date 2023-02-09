@@ -1,0 +1,248 @@
+.box{
+    position: absolute;
+    width: 1440px;
+    height: 458px;
+    left: 0px;
+    top: 0px;
+    
+    background: #0089ED;
+    
+}
+#logo{
+    position: absolute;
+width: 135px;
+height: 44px;
+left: 5%;
+top: 10%;
+
+}
+.sign{
+    position: absolute;
+    width: 186px;
+    height: 51px;
+left: 5%;
+top: 25%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 51px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.account{
+    position: absolute;
+width: 246px;
+height: 36px;
+left: 2%;
+top: 80%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.signdesc{
+    position: absolute;
+width: 311px;
+height: 115px;
+left: 5%;
+top:45%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 20px;
+
+color: #FFFFFF;
+}
+#Saly{
+    position: absolute;
+
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+}
+#signinbx{
+    position: absolute;
+width: 539px;
+height: 741px;
+left: 35%;
+top: 10%;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 35px rgba(0, 0, 0, 0.08);
+border-radius: 40px;
+}
+.welcome{
+    position: absolute;
+width: 181px;
+height: 32px;
+left: 5%;
+top: 5%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.wiin{
+    color: #34A853;
+}
+.Sin{
+    position: absolute;
+    width: 223px;
+    height: 60px;
+left: 5%;
+top: 10%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#label1{
+    position: absolute;
+left: 5%;
+
+top: 25%;
+width: 306px;
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #000000;
+}
+::placeholder{
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #808080;
+    }
+    #staticEmail1{
+        box-sizing: border-box;
+    
+        position: absolute;
+        left: 4%;
+        
+        top: 30%;
+       width: 451px ;
+       height: 57px;
+        
+        background: #FFFFFF;
+        border: 1px solid #4285F4;
+        border-radius: 9px;
+    }
+    #labelname{
+        position: absolute;
+    left: 5%;
+    
+    top: 40%;
+    
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+    #name1{
+        box-sizing: border-box;
+    width: 451px;
+    height: 57px;
+    position: absolute;
+    left: 5%;
+    
+    top: 45%;
+    
+    
+    background: #FFFFFF;
+    border: 1px solid #ADADAD;
+    border-radius: 9px;
+    }
+    #labelcontact{
+        position: absolute;
+    left: 5%;
+    
+    top: 55%;
+    width: 216px;
+    height:24px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    }
+    #contact{
+        box-sizing: border-box;
+        width: 451px;
+        height: 165px;
+    position: absolute;
+    left: 5%;
+    
+    top: 60%;
+    
+    
+    background: #FFFFFF;
+    border: 1px solid #ADADAD;
+    border-radius: 9px;
+    }
+    #signupbtn{
+        position: absolute;
+        width: 451px;
+        height: 54px;
+        left: 5%;
+        top: 90%;
+        
+        background: #0163E0;
+        border-radius: 10px;
+        font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+    }
